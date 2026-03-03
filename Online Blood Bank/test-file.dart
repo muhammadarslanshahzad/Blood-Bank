@@ -1,2 +1,2 @@
-console.log("contact us");
+print("contact us");
 console.log("new commit");
